@@ -90,7 +90,7 @@ creating a **sustainable network of innovation, automation, and creativity.**
 
 <p align="center">
   <a href="mailto:iletisimcago@outlook.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/caganbalkaya"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/%C3%A7a%C4%9Fan-balkaya-b770b833b/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/caganbalkaya"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://caganbalkaya.com"><img src="https://img.shields.io/badge/-Portfolio-1f2937?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
