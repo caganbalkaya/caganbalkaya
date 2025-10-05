@@ -13,9 +13,9 @@
 I'm a **multi-domain developer and founder**, building an interconnected ecosystem of brands that combine **technology, design, and strategy**.
 
 - 🧠 **Founder of Zenova Technologies** — intelligent automation, AI infrastructure, and custom software systems.  
-- ⚙️ **Co-founder of Walker Interactive** — high-performance hosting, automation, and gaming infrastructure services.  
+- ⚙️ **Founder of Walker Interactive** — high-performance hosting, automation, and gaming infrastructure services.  
 - 🕵️‍♂️ **Creator of Dedektifsin** — a detective-themed board game & interactive storytelling experience.  
-- 🎮 **Director at MineM RP & Walker Game Services** — creating immersive game environments with modular systems.  
+- 🎮 **Director at MineM Network & Walker Game Services** — creating immersive game environments with modular systems.  
 - 💼 **Founder of Sparkist Agency** — creative media, video production, and digital marketing for brands.  
 - 🛒 **Developer of Kasaport & RoadLink** — modern web-based marketplace and e-commerce infrastructures.  
 - 🤝 **Creator of Zenova Academy** — educational platform focused on software, AI, and entrepreneurship.  
